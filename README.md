@@ -1,8 +1,6 @@
 # BIOSTAT824_Mental_Health_in_Tech_Survey
 Machine Learning Project on Mental Health in Tech Survey
 
-# Mental Health in Tech Survey Data Modeling
-
 ## Introduction
 Our team is embarking on a project to analyze mental health in the tech industry using a dataset from Kaggle's 2014 "Mental Health in Tech Survey." We aim to apply machine learning to predict the necessity for mental health treatment based on survey data. The dataset contains 1258 samples with 27 features involving strings, boolean values and integers.
 
